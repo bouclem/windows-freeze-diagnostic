@@ -3,6 +3,7 @@ docs/diagnostic-report.md
 docs/diagnostic-report-*.md
 docs/freeze-log.csv
 docs/freeze-log-*.csv
+docs/
 *-report.md
 *-report.txt
 *.log
