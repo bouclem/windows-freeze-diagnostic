@@ -1,0 +1,29 @@
+# Personal diagnostic reports (contain username, hostname, SID, paths)
+docs/diagnostic-report.md
+docs/diagnostic-report-*.md
+docs/freeze-log.csv
+docs/freeze-log-*.csv
+*-report.md
+*-report.txt
+*.log
+*.csv
+
+# Local notes / scratch
+notes/
+scratch/
+.tmp/
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+ehthumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS junk
+.DS_Store
